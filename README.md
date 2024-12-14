@@ -13,6 +13,7 @@ Arayüz: Swing
 IDE: IntelliJ IDEA
 
 
+
 Özellikler:
 
 Rastgele Mayın Yerleştirme
